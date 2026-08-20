@@ -1,0 +1,11 @@
+{
+  "name": "ArogyaMitra AI",
+  "description": "Medical triage assistant and prescription interpreter for Primary Healthcare Centers in South Asia & APAC.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
